@@ -14,3 +14,5 @@ En este repositorio encontraras las siguientes partes del juego, los demás podr
 - Códigos de la Interfaz de Odín
 
 //El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
+
+Proceso constructivo en [https://wiki.ead.pucv.cl/Vegv%C3%ADsir]
