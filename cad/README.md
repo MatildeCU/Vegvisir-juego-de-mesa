@@ -1,4 +1,4 @@
 # cad
 
-Modelos y dibujos, archivos Autocad, Fusion360, e AI. 
+Modelos y dibujos, archivos Autocad, Fusion360 y AI. 
 
