@@ -1,4 +1,6 @@
 # cad
 
-Modelos o dibujos, por ejemplo archivos Autocad, Inventor, entre otros. 
-Se debe especificar la(s) materialidad(es) y planimetrías de ensamble o proceso constructivo.
+Modelos y dibujos, archivos Autocad, Fusion360, e AI. 
+
+Materialidades y planimetrías de ensamble.
+
