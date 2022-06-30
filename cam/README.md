@@ -1,4 +1,5 @@
 # cam
 
-Archivos para la fabricación, por ejemplo archivos de corte láser, de router o impresión 3D, entre otros.
-Por favor indicar configuraciones y calibraciones así como máquinas empleadas.
+Archivos para la fabricación, archivos de corte láser e impresión 3D.
+
+Se indican configuraciones y calibraciones así como máquinas empleadas.
