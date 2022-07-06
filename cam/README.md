@@ -27,3 +27,7 @@ Enchapado de eucalipo 3 mm
 - Materialidad
 
 Filamento Wood Madera Grilon3 [3dparatodos.cl/producto/filamento-madera-grilon3/]
+
+## Ai y Pdf
+
+Archivos para imprimir y complementar el juego analogo
